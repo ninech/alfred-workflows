@@ -17,3 +17,11 @@ Gives you the ability to calculate the nearest fibunacci number to a given numbe
 ## Swag Player
 
 Set keybindings to play videos on a dashboard.
+
+By default F13 and F14 are set.
+
+Also you can use the "Swag" keyword to play a specific video.
+
+```
+swag https://www.youtube.com/watch?v=IqTerZkJaCU
+```
